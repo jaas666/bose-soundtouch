@@ -1,6 +1,16 @@
+---
+layout: home
+title: Home
+nav_order: 1
+description: "Community documentation for the Bose SoundTouch Web API"
+permalink: /
+---
+
 # Bose SoundTouch Web API Documentation
 
 **Version 1.0** | **Effective January 7, 2026**
+
+📖 **[View Live Documentation Site](https://jaas666.github.io/bose-soundtouch/)**
 
 > **⚠️ DISCLAIMER**: This is an **unofficial** community repository. While the documentation is sourced from official Bose materials ([SoundTouch-Web-API.pdf](soundtouch-api.pdf)), this repository is **NOT** officially maintained, endorsed, or sponsored by Bose Corporation.
 >
