@@ -1,3 +1,11 @@
+---
+layout: default
+title: Terms of Use
+nav_order: 5
+description: "Bose SoundTouch Web API Terms of Use"
+permalink: /terms
+---
+
 # Bose SoundTouch Web API Terms of Use
 
 **Effective January 7, 2026**
