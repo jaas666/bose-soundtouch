@@ -1,12 +1,3 @@
----
-layout: default
-title: Data Types
-parent: API Reference
-nav_order: 2
-description: "Special data types and enumerations"
-permalink: /api-reference/data-types
----
-
 # Data Types
 
 This document describes the special data types and enumerations used by the SoundTouch Web API.

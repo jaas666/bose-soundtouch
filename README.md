@@ -1,11 +1,3 @@
----
-layout: home
-title: Home
-nav_order: 1
-description: "Community documentation for the Bose SoundTouch Web API"
-permalink: /
----
-
 # Bose SoundTouch Web API Documentation
 
 **Version 1.0** | **Effective January 7, 2026**
@@ -93,7 +85,7 @@ socket.onmessage = (event) => {
 
 ## Documentation
 
-- **[Getting Started Guide](/getting-started)** - Setup and basic concepts
+- **[Getting Started Guide](docs/getting-started.md)** - Setup and basic concepts
 - **[API Reference](docs/api-reference/)** - Complete endpoint documentation
   - [Endpoints](docs/api-reference/endpoints.md)
   - [Data Types](docs/api-reference/data-types.md)

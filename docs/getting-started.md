@@ -1,11 +1,3 @@
----
-layout: default
-title: Getting Started
-nav_order: 2
-description: "Setup guide and basic usage for the SoundTouch Web API"
-permalink: /getting-started
----
-
 # Getting Started with the SoundTouch Web API
 
 This guide will help you start developing applications that control Bose SoundTouch speakers.

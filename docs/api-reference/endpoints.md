@@ -1,12 +1,3 @@
----
-layout: default
-title: Endpoints
-parent: API Reference
-nav_order: 1
-description: "Complete reference for all API endpoints"
-permalink: /api-reference/endpoints
----
-
 # API Endpoints Reference
 
 Complete reference for all SoundTouch Web API endpoints.

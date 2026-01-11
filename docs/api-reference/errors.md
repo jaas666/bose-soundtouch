@@ -1,12 +1,3 @@
----
-layout: default
-title: Error Handling
-parent: API Reference
-nav_order: 3
-description: "Error responses and troubleshooting"
-permalink: /api-reference/errors
----
-
 # Error Handling
 
 This document describes error responses and handling in the SoundTouch Web API.

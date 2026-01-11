@@ -1,11 +1,3 @@
----
-layout: default
-title: WebSocket Notifications
-nav_order: 4
-description: "Real-time notifications via WebSocket"
-permalink: /websockets
----
-
 # WebSocket Notifications
 
 The SoundTouch Web API provides real-time notifications via WebSocket connections on port 8080.
